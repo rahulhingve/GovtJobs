@@ -804,6 +804,10 @@ def export(
     if fmt in ["html", "all"]:
         export_html(all_jobs, "data/jobs.html", include_closed=include_closed)
         console.print("[green]Exported offline interactive HTML to data/jobs.html[/green]")
+        docs_dir = Path("docs")
+        if docs_dir.exists():
+            export_html(all_jobs, "docs/index.html", include_closed=include_closed)
+            console.print("[green]Updated GitHub Pages bundle at docs/index.html[/green]")
 
 @app.command()
 def add_url(url: str):
