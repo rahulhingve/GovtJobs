@@ -1,0 +1,163 @@
+# Recruiter Registry for GovJobs
+# Test set of 14 sources proving the pipeline across all categories
+
+- name: "Union Public Service Commission (UPSC)"
+  category: "Central exams and boards"
+  level: "central"
+  sector: "civil_and_engineering_services"
+  list_url: "https://upsc.gov.in/recruitment/recruitment-advertisement"
+  type: "html_list"
+  verify_ssl: true
+  enabled: true
+  selectors:
+    row: "table tbody tr"
+    title: "td:nth-child(2)"
+    link: "td:nth-child(2) a"
+    pdf: "td:nth-child(3) a"
+    date: "td:nth-child(4)"
+
+- name: "Staff Selection Commission (SSC)"
+  category: "Central exams and boards"
+  level: "central"
+  sector: "staff_selection"
+  list_url: "https://ssc.gov.in/home/notice-board"
+  type: "js_page"
+  verify_ssl: true
+  enabled: true
+  selectors:
+    row: ".innerCard"
+    title: ".text"
+
+- name: "Railway Recruitment Board (RRB Chennai)"
+  category: "Central exams and boards"
+  level: "central"
+  sector: "railways"
+  list_url: "https://www.rrbchennai.gov.in/"
+  type: "html_list"
+  verify_ssl: false  # Official NIC cert chain issue on rrbchennai.gov.in
+  enabled: true
+  selectors:
+    row: "table tr, .news-item"
+
+- name: "DRDO Recruitment & Assessment Centre (RAC)"
+  category: "Central exams and boards"
+  level: "central"
+  sector: "defence_rd"
+  list_url: "https://rac.gov.in/"
+  type: "html_list"
+  verify_ssl: true
+  enabled: true
+  selectors:
+    row: "table tr, .advt-list li"
+
+- name: "Indian Space Research Organisation (ISRO)"
+  category: "Central exams and boards"
+  level: "central"
+  sector: "space"
+  list_url: "https://www.isro.gov.in/Careers.html"
+  type: "html_list"
+  verify_ssl: true
+  enabled: true
+  selectors:
+    row: "table tr, .card, .content a"
+
+- name: "Bhabha Atomic Research Centre (BARC)"
+  category: "Central exams and boards"
+  level: "central"
+  sector: "atomic_energy"
+  list_url: "https://recruit.barc.gov.in/barcrecruit/"
+  type: "html_list"
+  verify_ssl: true
+  enabled: true
+  selectors:
+    row: "table tr, a"
+
+- name: "Power Grid Corporation of India (POWERGRID)"
+  category: "PSUs and CPSEs"
+  level: "psu"
+  sector: "power"
+  list_url: "https://www.powergrid.in/job-opportunities"
+  type: "html_list"
+  verify_ssl: true
+  enabled: true
+  selectors:
+    row: ".views-row, tr"
+
+- name: "Oil and Natural Gas Corporation (ONGC)"
+  category: "PSUs and CPSEs"
+  level: "psu"
+  sector: "oil_and_gas"
+  list_url: "https://ongcindia.com/web/eng/career"
+  type: "html_list"
+  verify_ssl: true
+  enabled: true
+  selectors:
+    row: "table tr, .career-list"
+
+- name: "Indian Navy (Nausena Bharti)"
+  category: "Defence and paramilitary"
+  level: "defence"
+  sector: "defence"
+  list_url: "https://www.joinindiannavy.gov.in/en/page/current-events.html"
+  type: "html_list"
+  verify_ssl: true
+  enabled: true
+  selectors:
+    row: ".event-item, tr"
+
+- name: "Indian Coast Guard (ICG)"
+  category: "Defence and paramilitary"
+  level: "defence"
+  sector: "maritime_defence"
+  list_url: "https://joinindiancoastguard.cdac.in/"
+  type: "html_list"
+  verify_ssl: true
+  enabled: true
+  selectors:
+    row: "table tr, .news-ticker, a"
+
+- name: "Cochin Shipyard Limited (CSL)"
+  category: "Maritime"
+  level: "psu"
+  sector: "maritime"
+  list_url: "https://cochinshipyard.in/career"
+  type: "html_list"
+  verify_ssl: true
+  enabled: true
+  selectors:
+    row: "table tr, .career-content"
+
+- name: "Airports Authority of India (AAI)"
+  category: "Aviation"
+  level: "psu"
+  sector: "aviation"
+  list_url: "https://www.aai.aero/en/careers/recruitment"
+  type: "html_list"
+  verify_ssl: true
+  enabled: true
+  selectors:
+    row: "table tbody tr"
+
+- name: "Madhya Pradesh Public Service Commission (MPPSC)"
+  category: "State PSCs and selection boards"
+  level: "state"
+  state: "Madhya Pradesh"
+  sector: "state_psc"
+  list_url: "https://mppsc.mp.gov.in/advertisement"
+  type: "html_list"
+  verify_ssl: true
+  enabled: true
+  selectors:
+    row: "table tbody tr"
+
+- name: "Punjab State Power Corporation Limited (PSPCL)"
+  category: "State power utilities"
+  level: "state"
+  state: "Punjab"
+  sector: "power"
+  list_url: "https://pspcl.in/recruitment/"
+  type: "html_list"
+  verify_ssl: true
+  enabled: true
+  selectors:
+    row: "table tbody tr, .recruitment-table tr"

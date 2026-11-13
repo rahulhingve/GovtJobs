@@ -1,0 +1,56 @@
+# Tip-off Sources for GovJobs: Discover missed engineering notices
+# Pinned exact domains. Never follow look-alike clone domains.
+
+- name: "Sarkari Result"
+  domain: "sarkariresult.com"
+  verified_domain: "sarkariresult.com"
+  list_url: "https://www.sarkariresult.com/latestjob/"
+  kind: "aggregator"
+  enabled: true
+  selectors:
+    row: "table tr, li a, .post a"
+
+- name: "Testbook Govt Jobs"
+  domain: "testbook.com"
+  verified_domain: "testbook.com"
+  list_url: "https://testbook.com/government-jobs"
+  kind: "aggregator"
+  enabled: true
+  selectors:
+    row: "a.card, .job-card a, a"
+
+- name: "IndGovtJobs"
+  domain: "indgovtjobs.in"
+  verified_domain: "indgovtjobs.in"
+  list_url: "https://www.indgovtjobs.in/"
+  kind: "aggregator"
+  enabled: true
+  selectors:
+    row: ".post-title a, h2 a, a"
+
+- name: "FreeJobAlert"
+  domain: "freejobalert.com"
+  verified_domain: "freejobalert.com"
+  list_url: "https://www.freejobalert.com/government-jobs/"
+  kind: "aggregator"
+  enabled: true
+  selectors:
+    row: "table tr, .latjn a, a"
+
+- name: "Employment News"
+  domain: "employmentnews.gov.in"
+  verified_domain: "employmentnews.gov.in"
+  list_url: "https://employmentnews.gov.in/"
+  kind: "official_feed"
+  enabled: true
+  selectors:
+    row: "table tr, .news-item, a"
+
+- name: "National Career Service (NCS)"
+  domain: "ncs.gov.in"
+  verified_domain: "ncs.gov.in"
+  list_url: "https://www.ncs.gov.in/"
+  kind: "official_feed"
+  enabled: true
+  selectors:
+    row: "table tr, a"

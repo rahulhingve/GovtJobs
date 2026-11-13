@@ -1,0 +1,374 @@
+# PSU Overrides: Official DPE-verified corrections and career URLs
+# Review date: 13/11/2026 IST
+# Official source: Department of Public Enterprises (DPE), Ministry of Finance (https://dpe.gov.in/)
+
+# ==========================================
+# 14 MAHARATNA CPSEs (Complete Official List)
+# ==========================================
+
+- name: "Bharat Heavy Electricals Limited"
+  aliases: ["BHEL"]
+  ratna_class: "maharatna"
+  ministry: "Ministry of Heavy Industries"
+  sector: "Heavy Engineering"
+  careers_url: "https://careers.bhel.in/"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Bharat Petroleum Corporation Limited"
+  aliases: ["BPCL"]
+  ratna_class: "maharatna"
+  ministry: "Ministry of Petroleum and Natural Gas"
+  sector: "Petroleum (Refining & Marketing)"
+  careers_url: "https://www.bharatpetroleum.in/careers/careers.aspx"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Coal India Limited"
+  aliases: ["CIL", "Coal India"]
+  ratna_class: "maharatna"
+  ministry: "Ministry of Coal"
+  sector: "Coal & Lignite"
+  careers_url: "https://www.coalindia.in/career-at-cil/"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "GAIL (India) Limited"
+  aliases: ["GAIL"]
+  ratna_class: "maharatna"
+  ministry: "Ministry of Petroleum and Natural Gas"
+  sector: "Petrochemicals & Gas"
+  careers_url: "https://www.gailonline.com/CRApplyingGail.html"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Hindustan Aeronautics Limited"
+  aliases: ["HAL"]
+  ratna_class: "maharatna"
+  ministry: "Ministry of Defence"
+  sector: "Transportation Equipment / Aerospace"
+  careers_url: "https://hal-india.co.in/Careers/M__4"
+  uses_gate: false
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Hindustan Petroleum Corporation Limited"
+  aliases: ["HPCL"]
+  ratna_class: "maharatna"
+  ministry: "Ministry of Petroleum and Natural Gas"
+  sector: "Petroleum (Refining & Marketing)"
+  careers_url: "https://www.hindustanpetroleum.com/job-openings"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Indian Oil Corporation Limited"
+  aliases: ["IOCL", "Indian Oil"]
+  ratna_class: "maharatna"
+  ministry: "Ministry of Petroleum and Natural Gas"
+  sector: "Petroleum (Refining & Marketing)"
+  careers_url: "https://iocl.com/latest-job-opening"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "NTPC Limited"
+  aliases: ["NTPC"]
+  ratna_class: "maharatna"
+  ministry: "Ministry of Power"
+  sector: "Power Generation"
+  careers_url: "https://www.ntpc.co.in/careers"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Oil & Natural Gas Corporation Limited"
+  aliases: ["ONGC", "Oil and Natural Gas Corporation"]
+  ratna_class: "maharatna"
+  ministry: "Ministry of Petroleum and Natural Gas"
+  sector: "Crude Oil & Gas Exploration"
+  careers_url: "https://ongcindia.com/web/eng/career"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Oil India Limited"
+  aliases: ["OIL", "Oil India"]
+  ratna_class: "maharatna"
+  ministry: "Ministry of Petroleum and Natural Gas"
+  sector: "Crude Oil"
+  careers_url: "https://www.oil-india.com/Current_openNew.aspx"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Power Finance Corporation"
+  aliases: ["PFC"]
+  ratna_class: "maharatna"
+  ministry: "Ministry of Power"
+  sector: "Financial Services"
+  careers_url: "https://pfcindia.com/Home/VS/15"
+  uses_gate: false
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Power Grid Corporation of India Limited"
+  aliases: ["POWERGRID", "Power Grid"]
+  ratna_class: "maharatna"
+  ministry: "Ministry of Power"
+  sector: "Transmission"
+  careers_url: "https://www.powergrid.in/job-opportunities"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "REC Limited"
+  aliases: ["REC", "Rural Electrification Corporation"]
+  ratna_class: "maharatna"
+  ministry: "Ministry of Power"
+  sector: "Financial Services"
+  careers_url: "https://recindia.nic.in/careers"
+  uses_gate: false
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Steel Authority of India Limited"
+  aliases: ["SAIL"]
+  ratna_class: "maharatna"
+  ministry: "Ministry of Steel"
+  sector: "Steel"
+  careers_url: "https://www.sail.co.in/en/plants/careers"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+# ==========================================
+# KEY NAVRATNA CPSEs
+# ==========================================
+
+- name: "Bharat Electronics Limited"
+  aliases: ["BEL"]
+  ratna_class: "navratna"
+  ministry: "Ministry of Defence"
+  sector: "Medium & Light Engineering"
+  careers_url: "https://bel-india.in/careers/"
+  uses_gate: false
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Container Corporation of India Limited"
+  aliases: ["CONCOR"]
+  ratna_class: "navratna"
+  ministry: "Ministry of Railways"
+  sector: "Transport Services"
+  careers_url: "https://concorindia.co.in/career.asp"
+  uses_gate: false
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Engineers India Limited"
+  aliases: ["EIL"]
+  ratna_class: "navratna"
+  ministry: "Ministry of Petroleum and Natural Gas"
+  sector: "Industrial Development & Tech. Consultancy"
+  careers_url: "https://engineersindia.com/careers"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Mishra Dhatu Nigam Limited"
+  aliases: ["MIDHANI"]
+  ratna_class: "navratna"
+  ministry: "Ministry of Defence"
+  sector: "Other Minerals & Metals"
+  careers_url: "https://midhani-india.in/careers/"
+  uses_gate: false
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "National Aluminium Company Limited"
+  aliases: ["NALCO"]
+  ratna_class: "navratna"
+  ministry: "Ministry of Mines"
+  sector: "Other Minerals & Metals"
+  careers_url: "https://nalcoindia.com/career/"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "National Buildings Construction Corporation"
+  aliases: ["NBCC", "NBCC (India) Limited"]
+  ratna_class: "navratna"
+  ministry: "Ministry of Housing and Urban Affairs"
+  sector: "Contract & Construction Services"
+  careers_url: "https://nbccindia.in/webEnglish/jobs"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "NLC India Limited"
+  aliases: ["NLC", "Neyveli Lignite"]
+  ratna_class: "navratna"
+  ministry: "Ministry of Coal"
+  sector: "Coal & Lignite"
+  careers_url: "https://www.nlcindia.in/new_website/careers/careers.php"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "NMDC Limited"
+  aliases: ["NMDC"]
+  ratna_class: "navratna"
+  ministry: "Ministry of Steel"
+  sector: "Other Minerals & Metals"
+  careers_url: "https://www.nmdc.co.in/careers"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Numaligarh Refinery Limited"
+  aliases: ["NRL"]
+  ratna_class: "navratna"
+  ministry: "Ministry of Petroleum and Natural Gas"
+  sector: "Petroleum (Refining & Marketing)"
+  careers_url: "https://www.nrl.co.in/Career.aspx"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Rashtriya Ispat Nigam Limited"
+  aliases: ["RINL", "Vizag Steel"]
+  ratna_class: "navratna"
+  ministry: "Ministry of Steel"
+  sector: "Steel"
+  careers_url: "https://www.vizagsteel.com/myindex.asp?page=careers"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Shipping Corporation of India Limited"
+  aliases: ["SCI"]
+  ratna_class: "navratna"
+  ministry: "Ministry of Ports, Shipping and Waterways"
+  sector: "Transport Services"
+  careers_url: "https://www.shipindia.com/careers"
+  uses_gate: false
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Rail Vikas Nigam Limited"
+  aliases: ["RVNL"]
+  ratna_class: "navratna"
+  ministry: "Ministry of Railways"
+  sector: "Contract & Construction Services"
+  careers_url: "https://rvnl.org/career"
+  uses_gate: false
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "IRCON International Limited"
+  aliases: ["IRCON"]
+  ratna_class: "navratna"
+  ministry: "Ministry of Railways"
+  sector: "Contract & Construction Services"
+  careers_url: "https://www.ircon.org/index.php?lang=en&Itemid=163"
+  uses_gate: false
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "RITES Limited"
+  aliases: ["RITES"]
+  ratna_class: "navratna"
+  ministry: "Ministry of Railways"
+  sector: "Industrial Development & Tech. Consultancy"
+  careers_url: "https://www.rites.com/Career"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "NHPC Limited"
+  aliases: ["NHPC"]
+  ratna_class: "navratna"
+  ministry: "Ministry of Power"
+  sector: "Power Generation"
+  careers_url: "https://www.nhpcindia.com/career"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Mazagon Dock Shipbuilders Limited"
+  aliases: ["MDL", "Mazagon Dock"]
+  ratna_class: "navratna"
+  ministry: "Ministry of Defence"
+  sector: "Transportation Equipment / Shipbuilding"
+  careers_url: "https://mazagondock.in/careers/"
+  uses_gate: false
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "RailTel Corporation of India"
+  aliases: ["RailTel"]
+  ratna_class: "navratna"
+  ministry: "Ministry of Railways"
+  sector: "Telecommunication Services"
+  careers_url: "https://www.railtelindia.com/careers.html"
+  uses_gate: false
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "SJVN Limited"
+  aliases: ["SJVN"]
+  ratna_class: "navratna"
+  ministry: "Ministry of Power"
+  sector: "Power Generation"
+  careers_url: "https://sjvn.nic.in/current-jobs"
+  uses_gate: true
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"
+
+- name: "Cochin Shipyard Limited"
+  aliases: ["CSL", "Cochin Shipyard"]
+  ratna_class: "miniratna_1"
+  ministry: "Ministry of Ports, Shipping and Waterways"
+  sector: "Transportation Equipment / Shipbuilding"
+  careers_url: "https://cochinshipyard.in/career"
+  uses_gate: false
+  verified: true
+  ratna_source_url: "https://dpe.gov.in/"
+  verified_on: "2026-11-13"

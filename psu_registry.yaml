@@ -1,0 +1,2718 @@
+- name: Bharat Heavy Electricals Limited
+  aliases:
+  - BHEL
+  ratna_class: maharatna
+  schedule: null
+  ministry: Ministry of Heavy Industries
+  sector: Heavy Engineering
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Bharat_Heavy_Electricals
+  careers_url: https://careers.bhel.in/
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Bharat Petroleum Corporation Limited
+  aliases:
+  - BPCL
+  ratna_class: maharatna
+  schedule: null
+  ministry: Ministry of Petroleum and Natural Gas
+  sector: Petroleum (Refining & Marketing)
+  hq: Mumbai,Maharashtra
+  website: https://en.wikipedia.org/wiki/Bharat_Petroleum
+  careers_url: https://www.bharatpetroleum.in/careers/careers.aspx
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Coal India Limited
+  aliases:
+  - CIL
+  - Coal India
+  ratna_class: maharatna
+  schedule: null
+  ministry: Ministry of Coal
+  sector: Coal & Lignite
+  hq: Kolkata,West Bengal
+  website: https://en.wikipedia.org/wiki/Coal_India
+  careers_url: https://www.coalindia.in/career-at-cil/
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: GAIL (India) Limited
+  aliases:
+  - India
+  - GAIL
+  ratna_class: maharatna
+  schedule: null
+  ministry: Ministry of Petroleum and Natural Gas
+  sector: Petrochemicals & Gas
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/GAIL
+  careers_url: https://www.gailonline.com/CRApplyingGail.html
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Hindustan Aeronautics Limited
+  aliases:
+  - HAL
+  ratna_class: maharatna
+  schedule: null
+  ministry: Ministry of Defence
+  sector: Transportation Equipment / Aerospace
+  hq: Bangalore,Karnataka
+  website: https://en.wikipedia.org/wiki/Hindustan_Aeronautics_Limited
+  careers_url: https://hal-india.co.in/Careers/M__4
+  uses_gate: false
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Hindustan Petroleum Corporation Limited
+  aliases:
+  - HPCL
+  ratna_class: maharatna
+  schedule: null
+  ministry: Ministry of Petroleum and Natural Gas
+  sector: Petroleum (Refining & Marketing)
+  hq: ''
+  website: null
+  careers_url: https://www.hindustanpetroleum.com/job-openings
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Indian Oil Corporation Limited
+  aliases:
+  - IOCL
+  - Indian Oil
+  ratna_class: maharatna
+  schedule: null
+  ministry: Ministry of Petroleum and Natural Gas
+  sector: Petroleum (Refining & Marketing)
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Indian_Oil_Corporation
+  careers_url: https://iocl.com/latest-job-opening
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: NTPC Limited
+  aliases:
+  - NTPC
+  ratna_class: maharatna
+  schedule: null
+  ministry: Ministry of Power
+  sector: Power Generation
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/National_Thermal_Power_Corporation
+  careers_url: https://www.ntpc.co.in/careers
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Oil & Natural Gas Corporation Limited
+  aliases:
+  - ONGC
+  - Oil and Natural Gas Corporation
+  ratna_class: maharatna
+  schedule: null
+  ministry: Ministry of Petroleum and Natural Gas
+  sector: Crude Oil & Gas Exploration
+  hq: Dehradun,Uttarakhand
+  website: https://en.wikipedia.org/wiki/Oil_and_Natural_Gas_Corporation
+  careers_url: https://ongcindia.com/web/eng/career
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Oil India Limited
+  aliases:
+  - OIL
+  - Oil India
+  ratna_class: maharatna
+  schedule: null
+  ministry: Ministry of Petroleum and Natural Gas
+  sector: Crude Oil
+  hq: Duliajan, Assam
+  website: https://en.wikipedia.org/wiki/Oil_India_Limited
+  careers_url: https://www.oil-india.com/Current_openNew.aspx
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Power Finance Corporation
+  aliases:
+  - PFC
+  ratna_class: maharatna
+  schedule: null
+  ministry: Ministry of Power
+  sector: Financial Services
+  hq: ''
+  website: https://en.wikipedia.org/wiki/Power_Finance_Corporation_Limited
+  careers_url: https://pfcindia.com/Home/VS/15
+  uses_gate: false
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Power Grid Corporation of India Limited
+  aliases:
+  - POWERGRID
+  - Power Grid
+  ratna_class: maharatna
+  schedule: null
+  ministry: Ministry of Power
+  sector: Transmission
+  hq: ''
+  website: https://en.wikipedia.org/wiki/PowerGrid_Corporation_of_India
+  careers_url: https://www.powergrid.in/job-opportunities
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: REC Limited
+  aliases:
+  - REC
+  - Rural Electrification Corporation
+  ratna_class: maharatna
+  schedule: null
+  ministry: Ministry of Power
+  sector: Financial Services
+  hq: ''
+  website: null
+  careers_url: https://recindia.nic.in/careers
+  uses_gate: false
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Steel Authority of India Limited
+  aliases:
+  - SAIL
+  ratna_class: maharatna
+  schedule: null
+  ministry: Ministry of Steel
+  sector: Steel
+  hq: ''
+  website: https://en.wikipedia.org/wiki/Steel_Authority_of_India_Limited
+  careers_url: https://www.sail.co.in/en/plants/careers
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Bharat Electronics Limited
+  aliases:
+  - BEL
+  ratna_class: navratna
+  schedule: null
+  ministry: Ministry of Defence
+  sector: Medium & Light Engineering
+  hq: Bangalore,Karnataka
+  website: https://en.wikipedia.org/wiki/Bharat_Electronics_Limited
+  careers_url: https://bel-india.in/careers/
+  uses_gate: false
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Container Corporation of India Limited
+  aliases:
+  - CONCOR
+  ratna_class: navratna
+  schedule: null
+  ministry: Ministry of Railways
+  sector: Transport Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Container_Corporation_of_India
+  careers_url: https://concorindia.co.in/career.asp
+  uses_gate: false
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Engineers India Limited
+  aliases:
+  - EIL
+  ratna_class: navratna
+  schedule: null
+  ministry: Ministry of Petroleum and Natural Gas
+  sector: Industrial Development & Tech. Consultancy
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Engineers_India_Limited
+  careers_url: https://engineersindia.com/careers
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: IRCON International Limited
+  aliases:
+  - IRCON
+  ratna_class: navratna
+  schedule: null
+  ministry: Ministry of Railways
+  sector: Contract & Construction Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Ircon_International
+  careers_url: https://www.ircon.org/index.php?lang=en&Itemid=163
+  uses_gate: false
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Mazagon Dock Shipbuilders Limited
+  aliases:
+  - MDL
+  - Mazagon Dock
+  ratna_class: navratna
+  schedule: null
+  ministry: Ministry of Defence
+  sector: Transportation Equipment / Shipbuilding
+  hq: Mumbai,Maharashtra
+  website: https://en.wikipedia.org/wiki/Mazagon_Dock_Limited
+  careers_url: https://mazagondock.in/careers/
+  uses_gate: false
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Mishra Dhatu Nigam Limited
+  aliases:
+  - MIDHANI
+  ratna_class: navratna
+  schedule: null
+  ministry: Ministry of Defence
+  sector: Other Minerals & Metals
+  hq: Hyderabad,Telangana
+  website: https://en.wikipedia.org/wiki/Mishra_Dhatu_Nigam
+  careers_url: https://midhani-india.in/careers/
+  uses_gate: false
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: National Aluminium Company Limited
+  aliases:
+  - NALCO
+  ratna_class: navratna
+  schedule: null
+  ministry: Ministry of Mines
+  sector: Other Minerals & Metals
+  hq: Bhubaneshwar,Odisha
+  website: https://en.wikipedia.org/wiki/National_Aluminium_Company
+  careers_url: https://nalcoindia.com/career/
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: National Buildings Construction Corporation
+  aliases:
+  - NBCC
+  - NBCC (India) Limited
+  ratna_class: navratna
+  schedule: null
+  ministry: Ministry of Housing and Urban Affairs
+  sector: Contract & Construction Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/National_Buildings_Construction_Corporation_Limited
+  careers_url: https://nbccindia.in/webEnglish/jobs
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: NHPC Limited
+  aliases:
+  - NHPC
+  ratna_class: navratna
+  schedule: null
+  ministry: Ministry of Power
+  sector: Power Generation
+  hq: Faridabad,Haryana
+  website: https://en.wikipedia.org/wiki/NHPC_Limited
+  careers_url: https://www.nhpcindia.com/career
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: NLC India Limited
+  aliases:
+  - NLC
+  - Neyveli Lignite
+  ratna_class: navratna
+  schedule: null
+  ministry: Ministry of Coal
+  sector: Coal & Lignite
+  hq: Tamil Nadu
+  website: https://en.wikipedia.org/wiki/NLC_India_Limited
+  careers_url: https://www.nlcindia.in/new_website/careers/careers.php
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: NMDC Limited
+  aliases:
+  - NMDC
+  ratna_class: navratna
+  schedule: null
+  ministry: Ministry of Steel
+  sector: Other Minerals & Metals
+  hq: Hyderabad,Telangana
+  website: https://en.wikipedia.org/wiki/National_Mineral_Development_Corporation
+  careers_url: https://www.nmdc.co.in/careers
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Numaligarh Refinery Limited
+  aliases:
+  - NRL
+  ratna_class: navratna
+  schedule: null
+  ministry: Ministry of Petroleum and Natural Gas
+  sector: Petroleum (Refining & Marketing)
+  hq: Assam
+  website: https://en.wikipedia.org/wiki/Numaligarh_Refinery_Limited
+  careers_url: https://www.nrl.co.in/Career.aspx
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Rail Vikas Nigam Limited
+  aliases:
+  - RVNL
+  ratna_class: navratna
+  schedule: null
+  ministry: Ministry of Railways
+  sector: Contract & Construction Services
+  hq: ''
+  website: https://en.wikipedia.org/wiki/Rail_Vikas_Nigam_Limited
+  careers_url: https://rvnl.org/career
+  uses_gate: false
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: RailTel Corporation of India
+  aliases:
+  - RailTel
+  ratna_class: navratna
+  schedule: null
+  ministry: Ministry of Railways
+  sector: Telecommunication Services
+  hq: ''
+  website: null
+  careers_url: https://www.railtelindia.com/careers.html
+  uses_gate: false
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Rashtriya Ispat Nigam Limited
+  aliases:
+  - RINL
+  - Vizag Steel
+  ratna_class: navratna
+  schedule: null
+  ministry: Ministry of Steel
+  sector: Steel
+  hq: Visakhapatnam,Andhrapradesh
+  website: https://en.wikipedia.org/wiki/Rashtriya_Ispat_Nigam
+  careers_url: https://www.vizagsteel.com/myindex.asp?page=careers
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: RITES Limited
+  aliases:
+  - RITES
+  ratna_class: navratna
+  schedule: null
+  ministry: Ministry of Railways
+  sector: Industrial Development & Tech. Consultancy
+  hq: Gurgaon,Haryana
+  website: https://en.wikipedia.org/wiki/RITES
+  careers_url: https://www.rites.com/Career
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Shipping Corporation of India Limited
+  aliases:
+  - SCI
+  ratna_class: navratna
+  schedule: null
+  ministry: Ministry of Ports, Shipping and Waterways
+  sector: Transport Services
+  hq: Mumbai,Maharashtra
+  website: https://en.wikipedia.org/wiki/Shipping_Corporation_of_India_Limited
+  careers_url: https://www.shipindia.com/careers
+  uses_gate: false
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: SJVN Limited
+  aliases:
+  - SJVN
+  ratna_class: navratna
+  schedule: null
+  ministry: Ministry of Power
+  sector: Power Generation
+  hq: Shimla,Himachal Pradesh
+  website: https://en.wikipedia.org/wiki/Nathpa_Jhakri_Hydroelectric_Dam
+  careers_url: https://sjvn.nic.in/current-jobs
+  uses_gate: true
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Airports Authority of India
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Civil Aviation
+  sector: Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Airports_Authority_of_India
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Balmer Lawrie & Company
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Petroleum and Natural Gas
+  sector: Services & Manufacturing
+  hq: Kolkata,West Bengal
+  website: https://en.wikipedia.org/wiki/Balmer_Lawrie
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Bharat Coking Coal
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Coal
+  sector: Mining
+  hq: Dhanbad,Jharkhand
+  website: https://en.wikipedia.org/wiki/Bharat_Coking_Coal
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Bharat Dynamics
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Defence D/o Defence Production
+  sector: Manufacturing
+  hq: Hyderabad,Telangana
+  website: https://en.wikipedia.org/wiki/Bharat_Dynamics_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Bharat Earth Movers
+  aliases:
+  - BEML
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Defence D/o Defence Production
+  sector: Manufacturing
+  hq: Bangalore,Karnataka
+  website: https://en.wikipedia.org/wiki/Bharat_Earth_Movers
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Bharat Sanchar Nigam Limited
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Communications & Information Technology D/o Telecommunications
+  sector: Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Bharat_Sanchar_Nigam_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Bridge and Roof Company
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Heavy Industries & Public Enterprises D/o Heavy Industries
+  sector: Services
+  hq: Kolkata,West Bengal
+  website: https://en.wikipedia.org/wiki/Bridge_and_Roof_Company_(India)
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Central Coalfields Limited
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Coal
+  sector: Mining
+  hq: Jharkhand
+  website: https://en.wikipedia.org/wiki/Central_Coalfields_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Central Warehousing Corporation
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Consumer Affairs, Food & Public Distribution D/o Food & Public
+    Distribution
+  sector: Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Central_Warehousing_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Certification Engineers International Limited
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Petroleum and Natural Gas
+  sector: Services
+  hq: New Delhi
+  website: null
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Chennai Petroleum Corporation
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Petroleum and Natural Gas
+  sector: Manufacturing
+  hq: Chennai,Tamil Nadu
+  website: https://en.wikipedia.org/wiki/Chennai_Petroleum_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Cochin Shipyard Limited
+  aliases:
+  - CSL
+  - Cochin Shipyard
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Ports, Shipping and Waterways
+  sector: Transportation Equipment / Shipbuilding
+  hq: Kochi,Kerala
+  website: https://en.wikipedia.org/wiki/Cochin_Shipyard
+  careers_url: https://cochinshipyard.in/career
+  uses_gate: false
+  operating_status: active
+  verified: true
+  ratna_source_url: https://dpe.gov.in/
+  verified_on: '2026-11-13'
+- name: Educational Consultants India Limited
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Human Resource Development D/o Secondary Education & Higher
+    Education
+  sector: Services
+  hq: Uttar Pradesh
+  website: https://en.wikipedia.org/wiki/Educational_Consultants_India_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Garden Reach Shipbuilders & Engineers
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Defence D/o Defence Production
+  sector: Manufacturing
+  hq: Kolkata,West Bengal
+  website: https://en.wikipedia.org/wiki/Garden_Reach_Shipbuilders_and_Engineers
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Goa Shipyard
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Defence D/o Defence Production
+  sector: Manufacturing
+  hq: Vasco da Gama, Goa
+  website: https://en.wikipedia.org/wiki/Goa_Shipyard_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Hindustan Copper Limited
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Mines
+  sector: Mining
+  hq: Kolkata,West Bengal
+  website: https://en.wikipedia.org/wiki/Hindustan_Copper_Limited?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Hindustan Paper Corporation
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Heavy Industries & Public Enterprises D/o Heavy Industries
+  sector: Manufacturing
+  hq: Kolkata,West Bengal
+  website: https://en.wikipedia.org/wiki/Hindustan_Paper_Corporation?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: HLL Lifecare
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Health & Family Welfare D/o of Health And Family Welfare
+  sector: Manufacturing
+  hq: Thiruvananthapuram,Kerala
+  website: https://en.wikipedia.org/wiki/HLL_Lifecare
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Housing and Urban Development Corporation
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Housing and Urban Poverty Alleviation
+  sector: Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Housing_and_Urban_Development_Corporation_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: India Tourism Development Corporation
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Tourism
+  sector: Services
+  hq: ''
+  website: https://en.wikipedia.org/wiki/India_Tourism_Development_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: India Trade Promotion Organisation
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Commerce & Industry D/o Commerce
+  sector: Services
+  hq: ''
+  website: https://en.wikipedia.org/wiki/India_Trade_Promotion_Organisation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Indian Railway Catering and Tourism Corporation
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Railways
+  sector: Services
+  hq: ''
+  website: https://en.wikipedia.org/wiki/Indian_Railway_Catering_and_Tourism_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Indian Renewable Energy Development Agency
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of New and Renewable Energy
+  sector: Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Indian_Renewable_Energy_Development_Agency
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Kumarakruppa Frontier Hotels
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Tourism
+  sector: Services
+  hq: ''
+  website: https://en.wikipedia.org/wiki/Kumarakruppa_Frontier_Hotels?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Mahanadi Coalfields Limited
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Coal
+  sector: Mining
+  hq: Sambalpur,Odisha
+  website: https://en.wikipedia.org/wiki/Coal_India_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Mangalore Refinery & Petrochemicals
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Petroleum and Natural Gas
+  sector: Manufacturing
+  hq: Mangalore,Karnataka
+  website: https://en.wikipedia.org/wiki/Mangalore_Refinery_and_Petrochemicals_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Manganese Ore India
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Steel
+  sector: Mining
+  hq: Nagpur,Maharashtra
+  website: https://en.wikipedia.org/wiki/MOIL_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: MECON Limited
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Steel
+  sector: Services
+  hq: Ranchi,Jharkhand
+  website: https://en.wikipedia.org/wiki/MECON_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: MMTC
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Commerce & Industry D/o Commerce
+  sector: Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Minerals_and_Metals_Trading_Corporation_of_India
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: MSTC Limited
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Steel
+  sector: Services
+  hq: Kolkata,West Bengal
+  website: https://en.wikipedia.org/wiki/MSTC_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: National Fertilizers Limited
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Chemicals & Fertilizers D/o Fertilizers
+  sector: Manufacturing
+  hq: Noida,Uttar Pradesh
+  website: https://en.wikipedia.org/wiki/National_Fertilisers_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: National Seeds Corporation Limited
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Agriculture D/o Agriculture and Cooperation
+  sector: Agriculture
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/National_Seeds_Corporation_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Northern Coalfields
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Coal
+  sector: Mining
+  hq: Singrauli,Madhya Pradesh
+  website: https://en.wikipedia.org/wiki/Northern_Coalfields_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Railtel Corporation India
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Railways
+  sector: Services
+  hq: ''
+  website: https://en.wikipedia.org/wiki/Railtel_Corporation_of_India
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Rashtriya Chemicals & Fertilizers
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Chemicals & Fertilizers D/o Fertilizer
+  sector: Manufacturing
+  hq: Mumbai,Maharashtra
+  website: https://en.wikipedia.org/wiki/Rashtriya_Chemicals_&_Fertilizers
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Security Printing and Minting Corporation of India Limited
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Finance D/o Economic Affairs
+  sector: Manufacturing
+  hq: ''
+  website: https://en.wikipedia.org/wiki/Security_Printing_and_Minting_Corporation_of_India_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: South Eastern Coalfields
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Coal
+  sector: Mining
+  hq: Chhattisgarh
+  website: https://en.wikipedia.org/wiki/Coal_India_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: State Trading Corporation of India
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Commerce & Industry D/o Commerce
+  sector: Services
+  hq: ''
+  website: https://en.wikipedia.org/wiki/State_Trading_Corporation_of_India
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Telecommunications Consultants India
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Communications & Information Technology D/o Telecommunications
+  sector: Services
+  hq: ''
+  website: https://en.wikipedia.org/wiki/Telecommunications_Consultants_India_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: WAPCOS Limited
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Water Resources, River Development & Ganga Rejuvenation
+  sector: Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/WAPCOS_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Western Coalfields
+  aliases: []
+  ratna_class: miniratna_1
+  schedule: null
+  ministry: Ministry of Coal
+  sector: Mining
+  hq: Nagpur,Maharashtra
+  website: https://en.wikipedia.org/wiki/Coal_India_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Broadcast Engineering Consultants India
+  aliases: []
+  ratna_class: miniratna_2
+  schedule: null
+  ministry: Ministry of Information & Broadcasting
+  sector: Services
+  hq: New Delhi
+  website: null
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Central Mine Planning and Design Institute
+  aliases: []
+  ratna_class: miniratna_2
+  schedule: null
+  ministry: Ministry of Coal
+  sector: Services
+  hq: Jharkhand
+  website: https://en.wikipedia.org/wiki/Central_Mine_Planning_and_Design_Institute
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Engineering Projects  Limited
+  aliases:
+  - India
+  ratna_class: miniratna_2
+  schedule: null
+  ministry: Ministry of Heavy Industries & Public Enterprises D/o Heavy Industries
+  sector: Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Engineering_Projects_(India)_Limited?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: FCI Aravali Gypsum & Minerals India Limited
+  aliases: []
+  ratna_class: miniratna_2
+  schedule: null
+  ministry: Ministry of Chemicals & Fertilizers D/o Fertilizer
+  sector: Mining
+  hq: Jodhpur,Rajasthan
+  website: https://en.wikipedia.org/wiki/FCI_Aravali_Gypsum_and_Minerals_(India)_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Indian Medicines & Pharmaceutical Corporation
+  aliases: []
+  ratna_class: miniratna_2
+  schedule: null
+  ministry: Ministry of Health & Family Welfare D/o Ayush
+  sector: Manufacturing
+  hq: Almora,Uttarakhand
+  website: https://en.wikipedia.org/wiki/Indian_Medicines_&_Pharmaceutical_Corporation?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Mineral Exploration Corporation Limited
+  aliases: []
+  ratna_class: miniratna_2
+  schedule: null
+  ministry: Ministry of Mines
+  sector: Services
+  hq: Nagpur,Maharashtra
+  website: null
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: National Film Development Corporation of India
+  aliases: []
+  ratna_class: miniratna_2
+  schedule: null
+  ministry: Ministry of Information & Broadcasting
+  sector: Services
+  hq: Mumbai,Maharashtra
+  website: https://en.wikipedia.org/wiki/National_Film_Development_Corporation_of_India
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Rajasthan Electronics and Instruments
+  aliases: []
+  ratna_class: miniratna_2
+  schedule: null
+  ministry: Ministry of Heavy Industries & Public Enterprises D/o Heavy Industries
+  sector: Manufacturing
+  hq: Jaipur,Rajasthan
+  website: https://en.wikipedia.org/wiki/Rajasthan_Electronics_and_Instruments_Limited?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Utkarsha Aluminium Dhatu Nigam Limited
+  aliases:
+  - UADNL
+  ratna_class: miniratna_2
+  schedule: null
+  ministry: Ministry of Defence D/o Defence Production
+  sector: Manufacturing
+  hq: Nellore,Andhrapradesh
+  website: null
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Agriculture Insurance Company of India
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Finance
+  sector: Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Agriculture_Insurance_Company_of_India
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: AI Engineering Services
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Civil Aviation
+  sector: Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Air_India
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Airline Allied Services Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Civil Aviation
+  sector: Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Alliance_Air_(India)
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Akaltara Power
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Power
+  sector: ''
+  hq: Chhattisgarh
+  website: https://en.wikipedia.org/wiki/Ultra_Mega_Power_Projects
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Andrew Yule & Co Ltd
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Heavy Industries & Public Enterprises D/o Heavy Industries
+  sector: Manufacturing
+  hq: Kolkata,West Bengal
+  website: https://en.wikipedia.org/wiki/Andrew_Yule_and_Company
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Antrix Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Department of Space
+  sector: Manufacturing
+  hq: Bangalore,Karnataka
+  website: https://en.wikipedia.org/wiki/Antrix_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Balmer & Lawrie Investments
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Petroleum and Natural Gas
+  sector: Services
+  hq: Kolkata,West Bengal
+  website: https://en.wikipedia.org/wiki/Balmer_&_Lawrie_Investments
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: BEL Optoelectronic Devices
+  aliases:
+  - BEL
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Defence D/o Defence Production
+  sector: Manufacturing
+  hq: Pune,Maharashtra
+  website: https://en.wikipedia.org/wiki/BEL_Optronic_Devices_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Bengal Chemicals & Pharmaceuticals
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Chemicals & Fertilizers D/o Pharmaceuticals
+  sector: Manufacturing
+  hq: Kolkata,West Bengal
+  website: https://en.wikipedia.org/wiki/Bengal_Chemicals_and_Pharmaceuticals
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Bharat Immunologicals and Biologicals Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Science & Technology D/o Biotechnology
+  sector: Manufacturing
+  hq: Bulandshahr,Uttar Pradesh
+  website: https://en.wikipedia.org/wiki/Bharat_Immunologicals_and_Biologicals_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Bharatiya Nabhikiya Vidyut Nigam
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Department of Atomic Energy
+  sector: Manufacturing
+  hq: Chennai,Tamil Nadu
+  website: https://en.wikipedia.org/wiki/Bhavini
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Bhartiya Rail Bijlee Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Power
+  sector: ''
+  hq: New Delhi
+  website: null
+  careers_url: null
+  uses_gate: null
+  operating_status: under_construction
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Bihar Drugs & Organic Chemicals Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Chemicals & Fertilizers D/o Pharmaceuticals
+  sector: ''
+  hq: Bihar
+  website: null
+  careers_url: null
+  uses_gate: null
+  operating_status: dormant
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Bokaro Kodarma Maithon Transmission Company
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Power
+  sector: ''
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Damodar_Valley_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: under_construction
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Brahmaputra Cracker and Polymer Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Chemicals and Fertilizers
+  sector: ''
+  hq: Lepetkata,Assam
+  website: https://en.wikipedia.org/wiki/Brahmaputra_Cracker_and_Polymer_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: under_construction
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Brahmaputra Valley Fertilizer Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Chemicals & Fertilizers D/o Fertilizer
+  sector: Manufacturing
+  hq: Dibrugarh,Assam
+  website: https://en.wikipedia.org/wiki/Brahmaputra_Valley_Fertilizer_Corporation?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Braithwaite & Company
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Heavy Industries & Public Enterprises D/o Heavy Industries
+  sector: Manufacturing
+  hq: Kolkata,West Bengal
+  website: https://en.wikipedia.org/wiki/Braithwaite_&_Co.
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Braithwaite, Burn & Jessop Construction Company
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Heavy Industries & Public Enterprises D/o Heavy Industries
+  sector: Services
+  hq: Kolkata,West Bengal
+  website: https://en.wikipedia.org/wiki/Braithwaite,_Burn_&_Jessop_Construction_Company
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: British India Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Textiles
+  sector: Manufacturing
+  hq: Kanpur,Uttar Pradesh
+  website: https://en.wikipedia.org/wiki/British_India_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Cement Corporation of India
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Heavy Industries & Public Enterprises D/o Heavy Industries
+  sector: Manufacturing
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Cement_Corporation_of_India?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Central Cottage Industries Corporation of India Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Textiles
+  sector: Services
+  hq: New Delhi
+  website: null
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Central Electronics Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Science & Technology D/o Scientific & Industrial Research
+  sector: Manufacturing
+  hq: Uttar Pradesh
+  website: https://en.wikipedia.org/wiki/Central_Electronics_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Central Railside Warehousing Company
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Consumer Affairs, Food & Public Distribution D/o Food & Public
+    Distribution
+  sector: Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Central_Railside_Warehousing_Company?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Coastal Karnataka Power Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Power
+  sector: ''
+  hq: Karnataka
+  website: https://en.wikipedia.org/wiki/Ultra_Mega_Power_Plants_(India)
+  careers_url: null
+  uses_gate: null
+  operating_status: under_construction
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Coastal Maharashtra Mega Power Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Power
+  sector: ''
+  hq: Maharashtra
+  website: https://en.wikipedia.org/wiki/Ultra_Mega_Power_Projects
+  careers_url: null
+  uses_gate: null
+  operating_status: under_construction
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Coastal Tamil Nadu Power Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Power
+  sector: ''
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Ultra_Mega_Power_Projects
+  careers_url: null
+  uses_gate: null
+  operating_status: under_construction
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Cotton Corporation of India
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Textiles
+  sector: Services
+  hq: Mumbai,Maharashtra
+  website: https://en.wikipedia.org/wiki/Cotton_Corporation_of_India
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Damodar Valley Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Power
+  sector: Electricity
+  hq: Kolkata,West Bengal
+  website: https://en.wikipedia.org/wiki/Damodar_Valley_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Dedicated Freight Corridor Corporation of India
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Railways
+  sector: Enterprises Under Construction
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Dedicated_Freight_Corridor_Corporation_of_India
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Delhi Metro Rail Corporation Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Urban Development
+  sector: Services
+  hq: Delhi
+  website: https://en.wikipedia.org/wiki/Delhi_Metro_Rail_Corporation_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: East North Interconnection Company
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Power
+  sector: Enterprises Under Construction
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/East_North_Interconnection_Company?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Eastern Coalfields Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Coal
+  sector: Mining
+  hq: Asansol,West Bengal
+  website: https://en.wikipedia.org/wiki/Coal_India_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Electronics Corporation of India
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Department of Atomic Energy
+  sector: Medium & light engineering
+  hq: Hyderabad,Telangana
+  website: https://en.wikipedia.org/wiki/Electronics_Corporation_of_India
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Export Credit Guarantee Corporationof India
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Commerce & Industry D/o Commerce
+  sector: Services
+  hq: Mumbai,Maharashtra
+  website: https://en.wikipedia.org/wiki/Export_Credit_Guarantee_Corporation_of_India
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Fertilisers and Chemicals Travancore
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Chemicals & Fertilizers D/o Fertilizer
+  sector: Manufacturing
+  hq: Kochi,Kerala
+  website: https://en.wikipedia.org/wiki/Fertilisers_and_Chemicals_Travancore
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Fertilizer Corporation of India Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Chemicals & Fertilizers D/o Fertilizer
+  sector: Manufacturing
+  hq: Noida,Uttar Pradesh
+  website: https://en.wikipedia.org/wiki/Fertilizer_Corporation_of_India_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Food Corporation of India
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Consumer Affairs, Food & Public Distribution D/o Food & Public
+    Distribution
+  sector: Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Food_Corporation_of_India
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Fresh & Healthy Enterprises
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Railways
+  sector: Services
+  hq: Sonepat,Haryana
+  website: https://en.wikipedia.org/wiki/Container_Corporation_of_India
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: General Insurance Corporation of India Limited
+  aliases:
+  - GIC
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Finance
+  sector: Services
+  hq: Mumbai,Maharashtra
+  website: https://en.wikipedia.org/wiki/General_Insurance_Corporation_of_India
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Ghogarpalli Integrated Power Company Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Power
+  sector: Enterprises Under Construction
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Ghogarpalli_Integrated_Power_Company_Limited?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Heavy Engineering Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Heavy Industries & Public Enterprises D/o Heavy Industries
+  sector: Manufacturing
+  hq: Jharkhand
+  website: https://en.wikipedia.org/wiki/Heavy_Engineering_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Hindustan Antibiotics
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Chemicals & Fertilizers D/o Pharmaceuticals
+  sector: Manufacturing
+  hq: Pune,Maharashtra
+  website: https://en.wikipedia.org/wiki/Hindustan_Antibiotics_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Hindustan Fertilizer Corporation Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Chemicals & Fertilizers D/o Fertilizer
+  sector: Manufacturing
+  hq: New Delhi
+  website: null
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Hindustan Insecticides
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Chemicals & Fertilizers D/o Chemicals & Petrochemicals
+  sector: Manufacturing
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Hindustan_Insecticides_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Hindustan Salts Limited
+  aliases:
+  - Sambhar salt
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Heavy Industries & Public Enterprises D/o Heavy Industries
+  sector: Manufacturing
+  hq: Jaipur,Rajasthan
+  website: https://en.wikipedia.org/wiki/Hindustan_Salts_Limited?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Hindustan Shipyard
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Shipping
+  sector: Manufacturing
+  hq: Visakhapatnam,Andhra Pradesh
+  website: https://en.wikipedia.org/wiki/Hindustan_Shipyard_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: HMT LIMITED
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Heavy Industries
+  sector: Manufacturing
+  hq: Bangalore
+  website: null
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Hooghly Dock & Port Engineers Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Shipping
+  sector: Manufacturing
+  hq: Kolkata,West Bengal
+  website: https://en.wikipedia.org/wiki/Hooghly_Dock_&_Port_Engineers_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Hooghly Printing Company
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Heavy Industries & Public Enterprises D/o Heavy Industries
+  sector: Manufacturing
+  hq: Kolkata,West Bengal
+  website: https://en.wikipedia.org/wiki/Andrew_Yule_and_Company
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: IFCI Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Finance
+  sector: Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/IFCI_Ltd
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Il Power Electronics Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Heavy Industries & Public Enterprises D/o Heavy Industries
+  sector: Enterprises Under Construction
+  hq: Kota,Rajasthan
+  website: https://en.wikipedia.org/wiki/Il_Power_Electronics_Limited?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: India Infrastructure Finance Company
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Finance D/o Economic Affairs
+  sector: Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/India_Infrastructure_Finance_Company?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Indian Railway Finance Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Railways
+  sector: Services
+  hq: ''
+  website: https://en.wikipedia.org/wiki/Indian_Railway_Finance_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Indian Rare Earths Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Department of Atomic Energy
+  sector: Mining
+  hq: Mumbai,Maharashtra
+  website: https://en.wikipedia.org/wiki/Indian_Rare_Earths_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Indian Vaccine Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Science & Technology D/o Biotechnology
+  sector: ''
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Indian_Vaccine_Corporation?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Instrumentation Control Valves
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Heavy Industries & Public Enterprises D/o Heavy Industries
+  sector: ''
+  hq: Rajasthan
+  website: https://en.wikipedia.org/wiki/Instrumentation_Control_Valves?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: ITI
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Communications & Information Technology D/o Telecommunications
+  sector: Manufacturing
+  hq: Bangalore,Karnataka
+  website: https://en.wikipedia.org/wiki/Indian_Telephone_Industries_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: J & K Mineral Development Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Steel
+  sector: Mining
+  hq: Jammu & Kashmir
+  website: https://en.wikipedia.org/wiki/National_Mineral_Development_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Jagdishpur Paper Mills
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Heavy Industries & Public Enterprises D/o Heavy Industries
+  sector: Enterprises Under Construction
+  hq: Uttar Pradesh
+  website: https://en.wikipedia.org/wiki/Jagdishpur_Paper_Mills?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Jute Corporation of India
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Textiles
+  sector: Services
+  hq: Kolkata,West Bengal
+  website: https://en.wikipedia.org/wiki/Jute_Corporation_of_India
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Karnataka Antibiotics & Pharmaceuticals
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Chemicals & Fertilizers D/o Pharmaceuticals
+  sector: Manufacturing
+  hq: Karnataka
+  website: https://en.wikipedia.org/wiki/Karnataka_Antibiotics_&_Pharmaceuticals?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Karnataka Trade Promotion Organisation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Commerce & Industry D/o Commerce
+  sector: Services
+  hq: Karnataka
+  website: https://en.wikipedia.org/wiki/Karnataka_Trade_Promotion_Organisation?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: KIOCL
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Steel
+  sector: Mining
+  hq: Karnataka
+  website: https://en.wikipedia.org/wiki/Kudremukh_Iron_Ore_Company_Ltd.
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Kochi Refineries
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Petroleum and Natural Gas
+  sector: Manufacturing
+  hq: Kochi,Kerala
+  website: https://en.wikipedia.org/wiki/Kochi_Refineries
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Konkan Railway Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Railways
+  sector: Services
+  hq: Navi Mumbai,Maharashtra
+  website: https://en.wikipedia.org/wiki/Konkan_Railway_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Madras Fertilizers Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Chemicals & Fertilizers D/o Fertilizer
+  sector: Manufacturing
+  hq: Chennai,Tamil Nadu
+  website: https://en.wikipedia.org/wiki/Madras_Fertilizers_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Maharashtra Elektrosmelt
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Steel
+  sector: Manufacturing
+  hq: Mumbai,Maharashtra
+  website: https://en.wikipedia.org/wiki/Steel_Authority_of_India_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Millennium Telecom
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Communications & Information Technology D/o Telecommunications
+  sector: Services
+  hq: Mumbai,Maharashtra
+  website: https://en.wikipedia.org/wiki/Mahanagar_Telephone_Nigam
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Mumbai Railway Vikas Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Railways
+  sector: Services
+  hq: Mumbai,Maharashtra
+  website: https://en.wikipedia.org/wiki/Mumbai_Railway_Vikas_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Nagaland Pulp & Paper Company
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Heavy Industries & Public Enterprises D/o Heavy Industries
+  sector: Manufacturing
+  hq: Kolkata
+  website: https://en.wikipedia.org/wiki/Nagaland_Pulp_&_Paper_Company?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: National Backward Classes Finance and Development Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Social Justice and Empowerment
+  sector: Services
+  hq: ''
+  website: https://en.wikipedia.org/wiki/National_Backward_Classes_Finance_and_Development_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: National Cooperative Development Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Consumer Affairs, Food and Public Distribution
+  sector: cooperative
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/National_Cooperative_Development_Corporation_(India)
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: National Handicapped Finance and Development Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Social Justice and Empowerment
+  sector: Services
+  hq: ''
+  website: https://en.wikipedia.org/wiki/National_Handicapped_Finance_and_Development_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: National Handloom Development Corporation Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Textiles
+  sector: Services
+  hq: Lucknow,Uttar Pradesh
+  website: null
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: National Informatics Centre Services Incorporated
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Communications & Information Technology D/o Information Technology
+  sector: Services
+  hq: ''
+  website: null
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: National Insurance Co Ltd
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Finance, Dept of Economic Affairs, Banking & Insurance Division
+  sector: Services
+  hq: Kolkata,West Bengal
+  website: https://en.wikipedia.org/wiki/National_Insurance_Company_Limited_(India)
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: National Minorities Development and Finance Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Minority Affairs
+  sector: Services
+  hq: ''
+  website: https://en.wikipedia.org/wiki/National_Minorities_Development_and_Finance_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: National Projects Construction Corporation Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Water Resources, River Development & Ganga Rejuvenation
+  sector: Services
+  hq: New Delhi
+  website: null
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: National Research Development Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Science & Technology D/o Scientific & Industrial Research
+  sector: Services
+  hq: ''
+  website: https://en.wikipedia.org/wiki/National_Research_Development_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: National Safai Karamcharis Finance and Development Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Social Justice and Empowerment
+  sector: Services
+  hq: ''
+  website: https://en.wikipedia.org/wiki/National_Safai_Karamcharis_Finance_and_Development_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: National Scheduled Castes Finance and Development Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Social Justice and Empowerment
+  sector: Services
+  hq: ''
+  website: https://en.wikipedia.org/wiki/National_Scheduled_Castes_Finance_and_Development_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: National Scheduled Tribes Finance and Development Corporation
+  aliases:
+  - NSTFDC
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Tribal Affairs
+  sector: Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/National_Scheduled_Tribes_Finance_and_Development_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: National Small Industries Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Micro, Small and Medium Enterprises
+  sector: Services
+  hq: ''
+  website: https://en.wikipedia.org/wiki/National_Small_Industries_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: National Textile Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Textiles
+  sector: Manufacturing
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/National_Textile_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Nepa Limited
+  aliases:
+  - Formally National Newsprint and Paper Mills Limited
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Heavy Industries & Public Enterprises D/o Heavy Industries
+  sector: Manufacturing
+  hq: Madhya Pradesh
+  website: null
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: New India Assurance Company
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Finance, Dept of Economic Affairs, Banking & Insurance Division
+  sector: Services
+  hq: Mumbai,Maharashtra
+  website: https://en.wikipedia.org/wiki/New_India_Assurance
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: NLC Tamil Nadu Power
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Coal
+  sector: Enterprises Under Construction
+  hq: Tamil Nadu
+  website: https://en.wikipedia.org/wiki/National_Hydroelectric_Power_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: North Eastern Handicrafts & Handloom Development Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry for Development of North Eastern Region
+  sector: Services
+  hq: Shillong,Meghalaya
+  website: https://en.wikipedia.org/wiki/North_Eastern_Handicrafts_&_Handloom_Development_Corporation?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: North Eastern Regional Agricultural Marketing Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry for Development of North Eastern Region
+  sector: Agriculture
+  hq: Assam
+  website: https://en.wikipedia.org/wiki/North_Eastern_Regional_Agricultural_Marketing_Corporation?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: North Karanpura Transmission Company
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Power
+  sector: Enterprises Under Construction
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/North_Karanpura_Transmission_Company?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Nuclear Power Corporation of India
+  aliases:
+  - NPCIL
+  ratna_class: none
+  schedule: null
+  ministry: Department of Atomic Energy
+  sector: Electricity
+  hq: Mumbai
+  website: https://en.wikipedia.org/wiki/Nuclear_Power_Corporation_of_India
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: ONGC Mangalore Petrochemicals Limited
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Petroleum and Natural Gas
+  sector: Manufacturing
+  hq: Karnataka
+  website: https://en.wikipedia.org/wiki/ONGC_Mangalore_Petrochemicals_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: ONGC Videsh
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Petroleum and Natural Gas
+  sector: Mining
+  hq: ''
+  website: https://en.wikipedia.org/wiki/Oil_and_Natural_Gas_Corporation
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Oriental Insurance Company
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Finance, Dept of Economic Affairs, Banking & Insurance Division
+  sector: Services
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Oriental_Insurance_Company_Limited
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Orissa Drugs & Chemicals
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Chemicals & Fertilizers D/o Pharmaceuticals
+  sector: Manufacturing
+  hq: Bhubaneswar,Odisha
+  website: https://en.wikipedia.org/wiki/Orissa_Drugs_&_Chemicals?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Orissa Integrated Power
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Power
+  sector: Enterprises Under Construction
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Ultra_Mega_Power_Plants_(India)
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Punjab Ashok Hotel Company
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Tourism
+  sector: ''
+  hq: ''
+  website: https://en.wikipedia.org/wiki/Ashok_Group
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Ranchi Ashok Bihar Hotel Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Tourism
+  sector: Services
+  hq: Ranchi,Jharkhand
+  website: https://en.wikipedia.org/wiki/Ashok_Group
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Richardson & Cruddas
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Heavy Industries & Public Enterprises D/o Heavy Industries
+  sector: Manufacturing
+  hq: Mumbai,Maharashtra
+  website: https://en.wikipedia.org/wiki/Bharat_Yantra_Nigam?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Sponge Iron India
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Steel
+  sector: Manufacturing
+  hq: Hyderabad,Telangana
+  website: https://en.wikipedia.org/wiki/Sponge_Iron_India?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: State Bank of India
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Finance
+  sector: Services
+  hq: ''
+  website: https://en.wikipedia.org/wiki/State_Bank_of_India
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: State Farms Corporation of India
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Agriculture D/o Agriculture And Cooperation
+  sector: Agriculture
+  hq: ''
+  website: https://en.wikipedia.org/wiki/State_Farms_Corporation_of_India?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Talcher-II Transmission Company
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Power
+  sector: ''
+  hq: New Delhi
+  website: https://en.wikipedia.org/wiki/Talcher-II_Transmission_Company?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Tamil Nadu Trade Promotion Organisation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Commerce & Industry D/o Commerce
+  sector: Services
+  hq: Chennai,Tamil Nadu
+  website: https://en.wikipedia.org/wiki/Tamil_Nadu_Trade_Promotion_Organisation?action=edit&redlink=1
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: United India Insurance Company
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Finance, Dept of Economic Affairs, Banking & Insurance Division
+  sector: Services
+  hq: Chennai,Tamil Nadu
+  website: https://en.wikipedia.org/wiki/United_India_Insurance_Company
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Uranium Corporation of India
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Department of Atomic Energy
+  sector: Mining
+  hq: Jaduguda,Jharkhand
+  website: https://en.wikipedia.org/wiki/Uranium_Corporation_of_India
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Utkal Ashok Hotel Corporation
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Tourism
+  sector: Services
+  hq: Puri, Odisha
+  website: https://en.wikipedia.org/wiki/Ashok_Group
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
+- name: Vignyan Industries
+  aliases: []
+  ratna_class: none
+  schedule: null
+  ministry: Ministry of Defence D/o Defence Production
+  sector: Manufacturing
+  hq: Karnataka
+  website: https://en.wikipedia.org/wiki/BEML
+  careers_url: null
+  uses_gate: null
+  operating_status: active
+  verified: false
+  ratna_source_url: null
+  verified_on: null
