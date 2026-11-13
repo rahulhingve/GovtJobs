@@ -37,6 +37,10 @@ def extract_smart_pdf_text_from_bytes(pdf_bytes: bytes, max_pages: int = 12) -> 
         for i in range(min(4, total_pages)):
             selected_indices.add(i)
 
+        # Always select the last page (often contains Important Dates and signature)
+        if total_pages > 0:
+            selected_indices.add(total_pages - 1)
+
         # Scan remaining pages for keywords
         for i in range(4, total_pages):
             if len(selected_indices) >= max_pages:
@@ -67,6 +71,16 @@ def extract_pdf_from_url(url: str, verify_ssl: bool = True, timeout: float = 30.
             else:
                 logger.warning(f"Failed to download PDF {url}: status {resp.status_code}")
                 return None
+    except (httpx.ConnectError, httpx.RequestError) as e:
+        # Fallback with verify=False for Indian Govt/PSU custom cert chains
+        try:
+            with httpx.Client(timeout=timeout, verify=False, follow_redirects=True) as client:
+                resp = client.get(url)
+                if resp.status_code == 200 and resp.content:
+                    return extract_smart_pdf_text_from_bytes(resp.content)
+        except Exception as e2:
+            logger.error(f"Error fetching PDF {url} with verify=False: {e2}")
+            return None
     except Exception as e:
         logger.error(f"Error fetching PDF {url}: {e}")
         return None

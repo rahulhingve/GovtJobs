@@ -97,7 +97,9 @@ def sync_psu_registry(
         acronym_match = re.search(r"\((.*?)\)", raw_name)
         if acronym_match:
             acronym = acronym_match.group(1).strip()
-            if len(acronym) >= 2:
+            # Ignore parenthetical words that are not genuine acronyms (e.g. (India))
+            stop_acronyms = {"india", "limited", "ltd", "company", "co", "corporation", "central", "state", "national"}
+            if len(acronym) >= 2 and acronym.lower() not in stop_acronyms:
                 aliases.append(acronym)
             clean_name = re.sub(r"\(.*?\)", "", raw_name).strip()
         else:

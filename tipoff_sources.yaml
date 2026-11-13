@@ -19,7 +19,16 @@
   selectors:
     row: "a.card, .job-card a, a"
 
-- name: "IndGovtJobs"
+- name: "IndGovtJobs Engineers Hub"
+  domain: "indgovtjobs.in"
+  verified_domain: "indgovtjobs.in"
+  list_url: "https://www.indgovtjobs.in/2013/09/government-jobs-for-engineers-2013-2014.html"
+  kind: "aggregator"
+  enabled: true
+  selectors:
+    row: "table tr, .post-title a"
+
+- name: "IndGovtJobs Latest"
   domain: "indgovtjobs.in"
   verified_domain: "indgovtjobs.in"
   list_url: "https://www.indgovtjobs.in/"

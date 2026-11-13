@@ -46,7 +46,6 @@
   verified_on: '2026-11-13'
 - name: GAIL (India) Limited
   aliases:
-  - India
   - GAIL
   ratna_class: maharatna
   schedule: null
@@ -1097,8 +1096,7 @@
   ratna_source_url: null
   verified_on: null
 - name: Engineering Projects  Limited
-  aliases:
-  - India
+  aliases: []
   ratna_class: miniratna_2
   schedule: null
   ministry: Ministry of Heavy Industries & Public Enterprises D/o Heavy Industries

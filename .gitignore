@@ -8,8 +8,11 @@ __pycache__/
 *.zip
 Thumbs.db
 .DS_Store
+*_files/
+*.htm
 
 # Data directory contents, but preserve data/.gitkeep
 data/*
 !data/.gitkeep
+
 
